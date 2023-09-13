@@ -2,7 +2,7 @@
 
 # Introduction 
 
-In this project, we will embark on an exciting journey to execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using the power of Kafka. We will leverage various cutting-edge technologies, including Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL, to build a robust and scalable solution. Through this project, we aim to demonstrate our expertise in data engineering and showcase the seamless integration of different technologies to handle real-time data streams.
+An End-To-End Data Engineering Project on Real-Time Stock Market Data using the power of Kafka. We will leverage various cutting-edge technologies, including Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL, to build a robust and scalable solution. Through this project, we aim to demonstrate our expertise in data engineering and showcase the seamless integration of different technologies to handle real-time data streams.
 
 # Project Overview:
 
