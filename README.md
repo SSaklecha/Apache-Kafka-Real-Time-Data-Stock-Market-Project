@@ -1,4 +1,4 @@
-# Real Time Stock-Market-Data Pipeline using Apache Kafka 
+# Real Time Stock-Market Data Pipeline using Apache Kafka 
 
 # Introduction 
 
